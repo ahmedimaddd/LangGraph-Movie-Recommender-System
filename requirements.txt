@@ -1,0 +1,20 @@
+Core Agentic Frameworks and LLMs
+langchain==0.2.16
+langchain-huggingface==0.0.3
+langgraph==0.2.23
+transformers==4.44.2
+sentence-transformers==3.1.1
+torch==2.4.0
+torchvision==0.19.0
+
+Data Handling & Visualization
+pandas==2.2.3
+numpy==1.26.4
+matplotlib
+scikit-learn
+graphviz
+pygraphviz
+
+Optional for logging
+tensorflow
+tensorboard
